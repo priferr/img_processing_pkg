@@ -5,11 +5,13 @@ Description:
 The package img_processing was created to study Python.
   
   Processing:
-  - Histogram matiching
-  - Structural similarity
-  - Resize image
+  
+    - Histogram matiching
+    - Structural similarity
+    - Resize image
   
   Utils:
+  
     - Read image
     - Save image
     - Plot image
