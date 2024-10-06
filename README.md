@@ -1,25 +1,28 @@
-# simple_pkg
+# img_processing
 
 Description. 
-The package package_name was created to study Python.
+The package img_processing was created to study Python.
+  Processing:
+  - Histogram matiching
+  - Structural similarity
+  - Resize image
+  Utils:
+    - Read image
+    - Save image
+    - Plot image
+    - Plot result
+    - Plot histogram
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install img_processing
 
 ```bash
-pip install sys_bancario
-```
-
-## Usage
-
-```python
-from sys_bancario import 40_sys_bancario
-40_sys_bancario.my_function()
+pip install img_processing
 ```
 
 ## Author
-Prifer
+Priferr
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
